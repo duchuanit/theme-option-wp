@@ -1,0 +1,3 @@
+Save this link in wp-content/plugins
+
+Goi ham ra: [phpinclude file='mycode']
